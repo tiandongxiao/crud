@@ -1,0 +1,14 @@
+{
+    "name": "tiandongxiao/crud",
+    "description": "laravel model crud handler",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tiandongxiao",
+            "email": "team@exingdong.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
