@@ -12,6 +12,5 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {"tiandongxiao\\Crud\\": ["src"]}
-    },
-    "require-dev": {}
+    }
 }
