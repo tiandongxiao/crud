@@ -9,13 +9,9 @@
             "email": "team@exingdong.com"
         }
     ],
-    "minimum-stability": "stable"
-    "require": {
-        "php": ">=5.5.9"
-    },
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {"tiandongxiao\\Crud\\": ["src"]}
     },
-    "require-dev": {},
-    "version": "1.0.0"
+    "require-dev": {}
 }
