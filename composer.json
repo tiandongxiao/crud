@@ -1,7 +1,6 @@
 {
     "name": "tiandongxiao/crud",
-    "version": "1.0.5",
-    "description": "laravel model crud handler",
+    "description": "laravel crud",
     "type": "php",
     "license": "MIT",
     "authors": [
@@ -10,7 +9,6 @@
             "email": "team@exingdong.com"
         }
     ],
-    "autoload": {
-        "psr-4": {"tiandongxiao\\Crud\\": ["src"]}
-    }
+    "minimum-stability": "dev",
+    "require": {}
 }
