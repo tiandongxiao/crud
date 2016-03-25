@@ -10,5 +10,11 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-4": {"tiandongxiao\\Crud\\": ["src"]}
+    },
+    "require-dev": {}
 }
